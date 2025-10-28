@@ -1,1 +1,4 @@
-Updated file for A`
+HEAD
+Updated file for A
+updated for B
+update-b
